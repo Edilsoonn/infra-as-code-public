@@ -1,0 +1,4 @@
+# Copie este arquivo para terraform.tfvars e preencha com os seus valores.
+# O terraform.tfvars real não é versionado (veja o .gitignore).
+my_ip  = "SEU_IP/32"
+vpc_id = "vpc-xxxxxxxxxxxxxxxxx"

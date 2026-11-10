@@ -1,0 +1,3 @@
+# Copie este arquivo para backend.hcl e preencha com o seu bucket.
+# Uso local: terraform init -backend-config=backend.hcl
+bucket = "NOME-DO-SEU-BUCKET-S3"
